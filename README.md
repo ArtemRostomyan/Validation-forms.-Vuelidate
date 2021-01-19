@@ -2,16 +2,18 @@
 
 > validation form, by Artem Rostomyan
 
-## Build Setup
+  ![artem-rostomyan-validation](https://user-images.githubusercontent.com/71639600/105055139-9405cd80-5a94-11eb-899d-b6a876efb101.gif)
+
+## Build Setup 
 
 ``` bash
-# install dependencies
+# Действие 1 install dependencies 
 npm install
 
-# serve with hot reload at localhost:8080
+# Действие 2 serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
+# Действие 3(не обязательно) build for production with minification
 npm run build
 ```
 
